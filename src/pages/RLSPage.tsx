@@ -329,7 +329,7 @@ export class BookingsService {
             <p className="text-gray-600 text-sm">
               No need to remember to add WHERE clauses - the database handles it
             </p>
-          </div>
+          </motion.div>
         </div>
 
         {/* Real-world Applications */}
